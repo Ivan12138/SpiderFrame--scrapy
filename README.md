@@ -1,2 +1,2 @@
 # SpiderFrame--scrapy
-crawl image by pyspider
+Reference video，code by myself
